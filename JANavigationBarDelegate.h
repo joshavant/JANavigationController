@@ -45,7 +45,7 @@
  * 2b. If you want to display a title, @synthesize and implement
  * `customNavigationBarTitle`.
  *
- * These properties sholud be initialized by the end of `init`.
+ * These properties should be initialized by the end of `init`.
  *
  */
 
