@@ -8,6 +8,8 @@ This is an iOS library that reimplements `UINavigationController` so child view 
 
 ## Discussion
 
+**Demo app and screenshots are available at: [http://github.com/joshavant/JANavigationControllerDemo](http://github.com/joshavant/JANavigationControllerDemo)**
+
 ### Customizing The Navigation Bar View Area
 
 A UINavigationBar object is not available as a property on `JANavigationController`. Instead, the navigation bar view area is customized by `JANavigationBarDelegate` properties implemented by child `UIViewController` delegates.
