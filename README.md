@@ -36,6 +36,7 @@ For more information, see the documentation in `JANavigationController+ForSubcla
 
 ## Project Roadmap
 * Allow configuration of the entire navigation stack through an accessor method. Currently, only a root view controller can be configured.
+* Include default styling, including default back and forward buttons, similar to native UIKit styling and controls.
 
 
 ## Compatibility
